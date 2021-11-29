@@ -8,6 +8,9 @@ public class ProductServiceImpl implements ProductService{
 
     @Override
     public int getTotalPrice(Order order, Promotion promotion) {
+
+        float d= 0.0;
+
         return 0;
     }
 }
